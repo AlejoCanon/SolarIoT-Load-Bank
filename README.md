@@ -79,4 +79,4 @@ liability for its use.
 ## License
 
 Released under the MIT License (see `LICENSE`). The mechanical design in
-`mechanical/` was developed by Juan José Vásquez Polanía.
+`mechanical/` was developed by Juan Camilo Cortes.
