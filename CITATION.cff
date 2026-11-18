@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+message: "If you use this design, please cite the paper below."
+title: "SolarIoT Load Bank"
+authors:
+  - family-names: "Cañón Borbón"
+    given-names: "Diego Alejandro"
+  - family-names: "Ontibón Velásquez"
+    given-names: "Julián David"
+  - family-names: "González Mancera"
+    given-names: "Andrés Leonardo"
+  - family-names: "Jiménez Estévez"
+    given-names: "Guillermo Andrés"
+  - family-names: "Vásquez Polanía"
+    given-names: "Juan José"
+license: MIT
+repository-code: "https://github.com/AlejoCanon/SolarIoT-Load-Bank"
+preferred-citation:
+  type: conference-paper
+  title: "A 6 kW Open-Architecture Three-Phase Variable Resistive Load for Restoring Plant Observability in Battery-Buffered PV Teaching Microgrids"
+  authors:
+    - family-names: "Cañón Borbón"
+      given-names: "Diego Alejandro"
+    - family-names: "Ontibón Velásquez"
+      given-names: "Julián David"
+    - family-names: "González Mancera"
+      given-names: "Andrés Leonardo"
+    - family-names: "Jiménez Estévez"
+      given-names: "Guillermo Andrés"
+    - family-names: "Vásquez Polanía"
+      given-names: "Juan José"
+  collection-title: "IEEE Southern Power Electronics Conference (SPEC)"
+  conference:
+    name: "IEEE SPEC 2026"
+    city: "Cartagena"
+    country: "CO"
+  year: 2026

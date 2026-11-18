@@ -1,0 +1,9 @@
+# Credentials: secrets.h is never committed (secrets.h.example is)
+secrets.h
+**/src/secrets.h
+# Build output and editor files
+.pio/
+.vscode/
+**/.claude/
+*.pyc
+__pycache__/
